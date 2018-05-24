@@ -10,6 +10,7 @@ The purpose of this assignment was to create your own custom "Paint" editor. A s
 
 ## Execution:
 Compile: javac MyPaintSoftware.java
+
 Run: java MyPaintSoftware
 
 ## How to use:
