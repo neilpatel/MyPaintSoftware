@@ -8,10 +8,14 @@ The purpose of this assignment was to create your own custom "Paint" editor. A s
 + Mosaic.java
 + MSquare.java
 
-## Execution
-Compile: 'javac MyPaintSoftware.java'
+## Usage
++ Clone the repository
+	+ Enter `git clone https://github.com/neilpatel/MyPaintSoftware.git`
++ To Compile:
+	+ `javac MyPaintSoftware.java`
++ To Execute:
+	+ `java MyPaintSoftware`
 
-Run: 'java MyPaintSoftware'
 
 ## How to use
 + File
@@ -48,7 +52,7 @@ Run: 'java MyPaintSoftware'
 		+ Alternate between squares and circles all in one motion
 	+ Start/Stop Twisting Colors
 		+ Alternate between different types of colors
-	+ *Both options simultaneously supported*
+	+ * Both options simultaneously supported *
 
 	
 
