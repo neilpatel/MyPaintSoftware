@@ -52,7 +52,7 @@ The purpose of this assignment was to create your own custom "Paint" editor. A s
 		+ Alternate between squares and circles all in one motion
 	+ Start/Stop Twisting Colors
 		+ Alternate between different types of colors
-	+ * Both options simultaneously supported *
+	+ *Both options simultaneously supported*
 
 	
 
