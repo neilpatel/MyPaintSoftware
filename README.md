@@ -18,7 +18,7 @@ Run: 'java MyPaintSoftware'
 	+ New
 		+ Create a new file
 	+ Open
-		+ Open a preexisting file
+		+ Open a existing file
 	+ Save
 		+ Save the current progress by updating the last saved version of the file to match current version
 	+ Save As
@@ -30,5 +30,25 @@ Run: 'java MyPaintSoftware'
 	+ Help
 		+ A dialogue box to assist the user with the software
 	+ Exit
-		+ Exits the window
+		+ Exit the application
 + Defaults
+	+ Set Color
+		+ Option to select a particular color 
+		+ Supported Color Models
+			+ Swatches | HSV | HSL | RGB | CMYK
+	+ Set Size
+		+ Enter a custom size for the shapes
+	+ Set Shape
+		+ Square
+			+ The painting shape will be a square
+		+ Circle
+			+ The painting shape will be a circle
++ Effects
+	+ Start/Stop Twisting Shapes
+		+ Alternate between squares and circles all in one motion
+	+ Start/Stop Twisting Colors
+		+ Alternate between different types of colors
+	+ *Both options simultaneously supported*
+
+	
+
