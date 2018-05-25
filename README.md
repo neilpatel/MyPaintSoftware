@@ -35,7 +35,9 @@ The purpose of this assignment was to create your own custom "Paint" editor. A s
 		+ A dialogue box to assist the user with the software
 	+ Exit
 		+ Exit the application
-![File Screenshot](https://github.com/neilpatel/MyPaintSoftware/blob/master/screenshots/file.PNG/)
+
+	+ ![File Screenshot](https://github.com/neilpatel/MyPaintSoftware/blob/master/screenshots/file.PNG/)
+
 + Defaults
 	+ Set Color
 		+ Option to select a particular color 
@@ -48,14 +50,17 @@ The purpose of this assignment was to create your own custom "Paint" editor. A s
 			+ The painting shape will be a square
 		+ Circle
 			+ The painting shape will be a circle
-![Defaults Screenshot](https://github.com/neilpatel/MyPaintSoftware/blob/master/screenshots/defaults.PNG)
+			
+	+ ![Defaults Screenshot](https://github.com/neilpatel/MyPaintSoftware/blob/master/screenshots/defaults.PNG)
+
 + Effects
 	+ Start/Stop Twisting Shapes
 		+ Alternate between squares and circles all in one motion
 	+ Start/Stop Twisting Colors
 		+ Alternate between different types of colors
 	+ *Both options simultaneously supported*
-![Effects Screenshot](https://github.com/neilpatel/MyPaintSoftware/blob/master/screenshots/effects.PNG)
+
+	+ ![Effects Screenshot](https://github.com/neilpatel/MyPaintSoftware/blob/master/screenshots/effects.PNG)
 
 	
 
