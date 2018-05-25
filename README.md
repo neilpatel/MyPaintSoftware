@@ -17,7 +17,7 @@ ___
 	+ `java MyPaintSoftware`
 
 ___
-## How to use
+## Paint Editor GUI Features
 + File
 	+ New
 		+ Create a new file
@@ -26,7 +26,7 @@ ___
 	+ Save
 		+ Save the current progress by updating the last saved version of the file to match current version
 	+ Save As
-		+ Prompts to save the current work as a file with a different name.
+		+ Prompts to save the current work as a file with a different name
 	+ Save as JPG
 		+ Provides the opportunity to save the current work with the '.jpg' extension
 	+ Print
@@ -61,6 +61,3 @@ ___
 	+ *Both options simultaneously supported*
 	+ Screenshot provided below
 		+ ![Effects Screenshot](https://github.com/neilpatel/MyPaintSoftware/blob/master/screenshots/effects.PNG)
-
-	
-
