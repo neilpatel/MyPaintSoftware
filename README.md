@@ -10,7 +10,7 @@ The purpose of this assignment was to create your own custom "Paint" editor. A s
 
 ## Usage
 + Clone the repository
-	+ Enter `git clone https://github.com/neilpatel/MyPaintSoftware.git`
+	+ `git clone https://github.com/neilpatel/MyPaintSoftware.git`
 + To Compile:
 	+ `javac MyPaintSoftware.java`
 + To Execute:
@@ -35,6 +35,7 @@ The purpose of this assignment was to create your own custom "Paint" editor. A s
 		+ A dialogue box to assist the user with the software
 	+ Exit
 		+ Exit the application
+![File Screenshot](/screenshots/file.png)
 + Defaults
 	+ Set Color
 		+ Option to select a particular color 
@@ -47,12 +48,14 @@ The purpose of this assignment was to create your own custom "Paint" editor. A s
 			+ The painting shape will be a square
 		+ Circle
 			+ The painting shape will be a circle
+![Defaults Screenshot](/screenshots/defaults.png)
 + Effects
 	+ Start/Stop Twisting Shapes
 		+ Alternate between squares and circles all in one motion
 	+ Start/Stop Twisting Colors
 		+ Alternate between different types of colors
 	+ *Both options simultaneously supported*
+![Effects Screenshot](/screenshots/effects.png)
 
 	
 
